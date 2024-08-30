@@ -31,5 +31,7 @@ You can install the necessary Python libraries using pip:
 ## Key Analysis Results
 
 **Debt by Country:** The notebook provides a ranked list of countries based on their total debt amounts.
+
 **Income Group Analysis:** It analyzes how debt is distributed among different income groups, revealing economic patterns.
+
 **Category-Specific Debt:** Insightful breakdowns of different debt categories provide a detailed look at international debt dynamics.
